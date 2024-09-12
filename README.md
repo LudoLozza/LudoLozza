@@ -1,6 +1,6 @@
 # Hello, I'm Ludovico Lozza 👋
 
-Welcome to my GitHub profile! I'm Ludovico Lozza, a passionate Computer Engineering student from Genova, Italy 💻
+Welcome to my GitHub profile! I'm Ludovico Lozza, a passionate Computer Engineering student from Genova, Italy.
 
 ---
 
