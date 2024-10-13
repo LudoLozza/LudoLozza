@@ -33,6 +33,23 @@ You can find me on:
 
 ### 🎓 University
 
+- **Master's degree in Computer Engineering** - _University of Genoa_<br>
+   _Genoa, Italy 🇮🇹_<br>
+   _Graduated in: Currently attending the second year_
+   - Relevant Courses: 
+      - Software Engineering
+      - Machine Learning and Data Analysis
+      - Artificial Intelligence
+      - Computer Security
+      - Human Computer Interaction
+    - Elective courses:
+      - Mobile Security (Android and iOS)
+      - High Performance Computing
+   - Projects:
+      - Software Engineering &rarr; Desktop application for dismantling facilities, using PyQt6 with VS Code.
+      - Human Computer Interaction &rarr; Ideation of an app with innovative interface to guide people exploring Genoa's hystory and architecture.
+      - Mobile Security &rarr; Security asessment of a set of apps using static, dynamic and network analysis tools with Kali Linux.
+    
 - **Bachelor's degree in Electronic Engineering and ICT** - _University of Genoa_ <br>
    _Genoa, Italy 🇮🇹_<br>
    _Graduated in: 2023_  
@@ -49,23 +66,6 @@ You can find me on:
       - Optical Fibers
    - Projects:
       - Thesis on IoT: “Design and development of an embedded system for physical activity” focusing on tennis shots recognition.
-
-- **Master's degree in Computer Engineering** - _University of Genoa_<br>
-   _Genoa, Italy 🇮🇹_<br>
-   _Graduated in: I'm currently attending the second year_
-   - Relevant Courses: 
-      - Software Engineering
-      - Machine Learning and Data Analysis
-      - Artificial Intelligence
-      - Computer Security
-      - Human Computer Interaction
-    - Elective courses:
-      - Mobile Security (Android and iOS)
-      - High Performance Computing
-   - Projects:
-      - Software Engineering &rarr; Desktop application for dismantling facilities, using PyQt6 with VS Code.
-      - Human Computer Interaction &rarr; Ideation of an app with innovative interface to guide people exploring Genoa's hystory and architecture.
-      - Mobile Security &rarr; Security asessment of a set of apps using static, dynamic and network analysis tools with Kali Linux.
 
 ### 💻 Work Experience
 
